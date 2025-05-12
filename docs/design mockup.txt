@@ -1,0 +1,10 @@
+Compressed Token POP (Proof-of-Participation)
+├── Creator Interface
+│   ├── Create Event/Experience
+│   ├── Design Token (Image, Name, etc.)
+│   ├── Generate QR Codes
+│   └── Dashboard (Track Claims)
+└── Attendee Interface
+    ├── QR Scanner
+    ├── Token Claim Process
+    └── Wallet of Collected Tokens
